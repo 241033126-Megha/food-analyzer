@@ -1,4 +1,7 @@
 streamlit
 opencv-python
 pytesseract
+pandas
+matplotlib
 scikit-learn
+fpdf
